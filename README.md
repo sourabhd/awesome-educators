@@ -1,6 +1,6 @@
 # [awesome-educators](https://sourabhd.github.io/awesome-educators/)
 
-This is a list of educators who have used the audio-visual mediums (Internet, television, public lectures) in an out-of-the-box manner to make learning fun.  
+This is a non-exhaustive list of educators who have used the audio-visual mediums (Internet, television, public lectures) in an out-of-the-box manner to make learning fun.  
 
 
 1) Dr. Derek Mueller [[1veritasium](https://www.youtube.com/user/1veritasium), [2veritasium](https://www.youtube.com/user/2veritasium)]
