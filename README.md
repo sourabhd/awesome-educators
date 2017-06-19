@@ -1,4 +1,5 @@
-# awesome-educators
+# [awesome-educators](https://sourabhd.github.io/awesome-educators/)
+
 This is a list of educators who have used the audio-visual mediums (Internet, television, public lectures) in an out-of-the-box manner to make learning fun.  
 
 
